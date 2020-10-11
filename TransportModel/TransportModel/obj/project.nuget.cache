@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "xTlus7NjEMEdfjekWgghBxiw0zLALcIN9bZo+q5LzZK2zg9rl5N6w5bLQuyxAEWU/sHPTRO5iwZzUm3DfdDZoQ==",
+  "success": true,
+  "projectFilePath": "E:\\TransportModel\\TransportModel\\TransportModel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

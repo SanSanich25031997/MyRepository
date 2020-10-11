@@ -1,0 +1,11 @@
+E:\TransportModel\TransportModel\bin\Debug\netcoreapp3.0\TransportModel.exe
+E:\TransportModel\TransportModel\bin\Debug\netcoreapp3.0\TransportModel.deps.json
+E:\TransportModel\TransportModel\bin\Debug\netcoreapp3.0\TransportModel.runtimeconfig.json
+E:\TransportModel\TransportModel\bin\Debug\netcoreapp3.0\TransportModel.runtimeconfig.dev.json
+E:\TransportModel\TransportModel\bin\Debug\netcoreapp3.0\TransportModel.dll
+E:\TransportModel\TransportModel\bin\Debug\netcoreapp3.0\TransportModel.pdb
+E:\TransportModel\TransportModel\obj\Debug\netcoreapp3.0\TransportModel.csprojAssemblyReference.cache
+E:\TransportModel\TransportModel\obj\Debug\netcoreapp3.0\TransportModel.AssemblyInfoInputs.cache
+E:\TransportModel\TransportModel\obj\Debug\netcoreapp3.0\TransportModel.AssemblyInfo.cs
+E:\TransportModel\TransportModel\obj\Debug\netcoreapp3.0\TransportModel.dll
+E:\TransportModel\TransportModel\obj\Debug\netcoreapp3.0\TransportModel.pdb
