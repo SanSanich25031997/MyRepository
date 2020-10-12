@@ -1,0 +1,12 @@
+E:\VacanciesInformation\VacanciesInformation\bin\Debug\VacanciesInformation.exe.config
+E:\VacanciesInformation\VacanciesInformation\bin\Debug\VacanciesInformation.exe
+E:\VacanciesInformation\VacanciesInformation\bin\Debug\VacanciesInformation.pdb
+E:\VacanciesInformation\VacanciesInformation\bin\Debug\Newtonsoft.Json.dll
+E:\VacanciesInformation\VacanciesInformation\bin\Debug\RestSharp.dll
+E:\VacanciesInformation\VacanciesInformation\bin\Debug\Newtonsoft.Json.xml
+E:\VacanciesInformation\VacanciesInformation\bin\Debug\RestSharp.xml
+E:\VacanciesInformation\VacanciesInformation\obj\Debug\VacanciesInformation.csprojAssemblyReference.cache
+E:\VacanciesInformation\VacanciesInformation\obj\Debug\VacanciesInformation.csproj.CoreCompileInputs.cache
+E:\VacanciesInformation\VacanciesInformation\obj\Debug\VacanciesInformation.csproj.CopyComplete
+E:\VacanciesInformation\VacanciesInformation\obj\Debug\VacanciesInformation.exe
+E:\VacanciesInformation\VacanciesInformation\obj\Debug\VacanciesInformation.pdb
