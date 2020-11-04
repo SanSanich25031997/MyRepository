@@ -1,0 +1,13 @@
+﻿@model FoodDeliveryCartViewModel
+
+<div class="container mt-5">
+    @foreach (var elemenet in Model.FoodDeliveryCart.ListFoodDeliveryItems)
+    {
+        <div class="alert alert-warning mt-3">
+            <b>Автомобиль: </b>@elemenet.Product.Name<br />
+            <b>Цена: </b>@elemenet.Product.Price.ToString("c")<br />
+        </div>
+    }
+    <hr />
+    <a class="btn btn-danger mb-5" asp-controller="Order" asp-action="Checkout">Оплатить</a>
+</div> 

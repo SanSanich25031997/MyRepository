@@ -1,0 +1,8 @@
+﻿<h1>Все продукты</h1>
+<h3>@Model.Company</h3>
+@{ 
+    foreach(Product product in Model.AllProducts)
+    {
+        @Html.Partial("AllProducts", product)
+    }
+}
