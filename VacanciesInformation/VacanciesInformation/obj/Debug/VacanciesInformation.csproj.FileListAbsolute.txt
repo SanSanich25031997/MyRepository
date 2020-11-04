@@ -10,3 +10,15 @@ E:\VacanciesInformation\VacanciesInformation\obj\Debug\VacanciesInformation.cspr
 E:\VacanciesInformation\VacanciesInformation\obj\Debug\VacanciesInformation.csproj.CopyComplete
 E:\VacanciesInformation\VacanciesInformation\obj\Debug\VacanciesInformation.exe
 E:\VacanciesInformation\VacanciesInformation\obj\Debug\VacanciesInformation.pdb
+E:\GitHub\MyRepository\VacanciesInformation\VacanciesInformation\bin\Debug\VacanciesInformation.exe.config
+E:\GitHub\MyRepository\VacanciesInformation\VacanciesInformation\bin\Debug\VacanciesInformation.exe
+E:\GitHub\MyRepository\VacanciesInformation\VacanciesInformation\bin\Debug\VacanciesInformation.pdb
+E:\GitHub\MyRepository\VacanciesInformation\VacanciesInformation\bin\Debug\Newtonsoft.Json.dll
+E:\GitHub\MyRepository\VacanciesInformation\VacanciesInformation\bin\Debug\RestSharp.dll
+E:\GitHub\MyRepository\VacanciesInformation\VacanciesInformation\bin\Debug\Newtonsoft.Json.xml
+E:\GitHub\MyRepository\VacanciesInformation\VacanciesInformation\bin\Debug\RestSharp.xml
+E:\GitHub\MyRepository\VacanciesInformation\VacanciesInformation\obj\Debug\VacanciesInformation.csprojAssemblyReference.cache
+E:\GitHub\MyRepository\VacanciesInformation\VacanciesInformation\obj\Debug\VacanciesInformation.csproj.CoreCompileInputs.cache
+E:\GitHub\MyRepository\VacanciesInformation\VacanciesInformation\obj\Debug\VacanciesInformation.csproj.CopyComplete
+E:\GitHub\MyRepository\VacanciesInformation\VacanciesInformation\obj\Debug\VacanciesInformation.exe
+E:\GitHub\MyRepository\VacanciesInformation\VacanciesInformation\obj\Debug\VacanciesInformation.pdb

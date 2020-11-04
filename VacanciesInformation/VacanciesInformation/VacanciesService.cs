@@ -152,9 +152,9 @@ namespace VacanciesInformation
             {
                 bool duplicate = false;
 
-                for (int z = 0; z < i; z++)
+                for (int j = 0; j < i; j++)
                 {
-                    if (items[z] == items[i])
+                    if (items[j] == items[i])
                     {
                         duplicate = true;
                         break;
