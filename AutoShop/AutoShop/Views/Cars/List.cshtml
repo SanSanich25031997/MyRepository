@@ -1,0 +1,8 @@
+﻿<h1>Все автомобили</h1>
+<h3>@Model.CarCategory</h3>
+@{
+    foreach (Car car in Model.AllCars)
+    {
+        @Html.Partial("AllCars", car)
+    }
+}
