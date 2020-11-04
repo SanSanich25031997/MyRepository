@@ -1,0 +1,291 @@
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\appsettings.json
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\BookLibrary.exe
+E:\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\BookLibrary.csprojAssemblyReference.cache
+E:\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\BookLibrary.AssemblyInfoInputs.cache
+E:\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\BookLibrary.AssemblyInfo.cs
+E:\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\BookLibrary.RazorAssemblyInfo.cache
+E:\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\BookLibrary.RazorAssemblyInfo.cs
+E:\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\BookLibrary.TagHelpers.input.cache
+E:\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\BookLibrary.TagHelpers.output.cache
+E:\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\BookLibrary.RazorCoreGenerate.cache
+E:\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\BookLibrary.RazorTargetAssemblyInfo.cache
+E:\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\BookLibrary.RazorTargetAssemblyInfo.cs
+E:\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\staticwebassets\BookLibrary.StaticWebAssets.Manifest.cache
+E:\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\staticwebassets\BookLibrary.StaticWebAssets.xml
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\BookLibrary.csproj.CopyComplete
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\BookLibrary.deps.json
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\BookLibrary.runtimeconfig.json
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\BookLibrary.runtimeconfig.dev.json
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\BookLibrary.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\BookLibrary.pdb
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\BookLibrary.Views.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\BookLibrary.Views.pdb
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\BookLibrary.Views.pdb
+E:\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\BookLibrary.dll
+E:\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\BookLibrary.pdb
+E:\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\BookLibrary.genruntimeconfig.cache
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+E:\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Author\Create.cshtml.g.cs
+E:\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Author\Empty.cshtml.g.cs
+E:\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Author\List.cshtml.g.cs
+E:\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Book\Create.cshtml.g.cs
+E:\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Book\Empty.cshtml.g.cs
+E:\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Book\EmptyAuthor.cshtml.g.cs
+E:\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Book\List.cshtml.g.cs
+E:\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Book\Update.cshtml.g.cs
+E:\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Author\Update.cshtml.g.cs
+E:\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Create.cshtml.g.cs
+E:\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Empty.cshtml.g.cs
+E:\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Customer\List.cshtml.g.cs
+E:\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Update.cshtml.g.cs
+E:\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Lend\Empty.cshtml.g.cs
+E:\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Lend\LendBook.cshtml.g.cs
+E:\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Lend\List.cshtml.g.cs
+E:\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Return\Empty.cshtml.g.cs
+E:\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Return\List.cshtml.g.cs
+E:\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Shared\AuthorPartial.cshtml.g.cs
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\BookLibrary.csproj.CoreCompileInputs.cache
+E:\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\BookLibrary.MvcApplicationPartsAssemblyInfo.cache
+E:\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\bundleconfig.json
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\bundleconfig.json
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\BookLibrary.exe
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\BookLibrary.deps.json
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\BookLibrary.runtimeconfig.json
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\BookLibrary.runtimeconfig.dev.json
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\BookLibrary.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\BookLibrary.pdb
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\BookLibrary.Views.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\BookLibrary.Views.pdb
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\BookLibrary.csprojAssemblyReference.cache
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\BookLibrary.AssemblyInfoInputs.cache
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\BookLibrary.AssemblyInfo.cs
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\BookLibrary.csproj.CoreCompileInputs.cache
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\BookLibrary.MvcApplicationPartsAssemblyInfo.cache
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\BookLibrary.RazorAssemblyInfo.cache
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\BookLibrary.RazorAssemblyInfo.cs
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\BookLibrary.TagHelpers.input.cache
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\BookLibrary.TagHelpers.output.cache
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\BookLibrary.RazorCoreGenerate.cache
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Author\Create.cshtml.g.cs
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Author\Empty.cshtml.g.cs
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Author\List.cshtml.g.cs
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Author\Update.cshtml.g.cs
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Book\Create.cshtml.g.cs
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Book\Empty.cshtml.g.cs
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Book\EmptyAuthor.cshtml.g.cs
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Book\List.cshtml.g.cs
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Book\Update.cshtml.g.cs
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Create.cshtml.g.cs
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Empty.cshtml.g.cs
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Customer\List.cshtml.g.cs
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Update.cshtml.g.cs
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Lend\Empty.cshtml.g.cs
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Lend\LendBook.cshtml.g.cs
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Lend\List.cshtml.g.cs
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Return\Empty.cshtml.g.cs
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Return\List.cshtml.g.cs
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\BookLibrary.RazorTargetAssemblyInfo.cache
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\BookLibrary.RazorTargetAssemblyInfo.cs
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\BookLibrary.Views.pdb
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\BookLibrary.csproj.CopyComplete
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\staticwebassets\BookLibrary.StaticWebAssets.Manifest.cache
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\staticwebassets\BookLibrary.StaticWebAssets.xml
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\BookLibrary.dll
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\BookLibrary.pdb
+E:\Паттенты\Разработка библиотечного приложения\BookLibrary\BookLibrary\obj\Debug\netcoreapp3.1\BookLibrary.genruntimeconfig.cache

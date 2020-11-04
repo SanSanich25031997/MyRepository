@@ -1,0 +1,30 @@
+﻿@model IEnumerable<Author>
+
+<a class="btn btn-success mt-5" style="margin: 10px" asp-controller="Author" asp-action="Create">Добавить нового автора</a>
+
+<div class="row">
+    @foreach (var author in Model)
+    {
+        <div class="col-sm-4 col-lg-4 col-md-4">
+            <div class="panel panel-primary">
+                <div class="panel-heading">
+                    <p>@author.Name @author.LastName</p>
+                </div>
+                <div class="panel-body">
+                    <h2>Количество книг: @author.Books?.Count</h2>
+                    <div class="btn-group">
+                        @if (author.Books?.Count == 0)
+                        {
+                            <a class="btn btn-default" asp-area="">View book list</a> }
+                        else
+                        {
+                            <a class="btn btn-info" asp-area="" asp-controller="Book" asp-action="List" asp-route-authorId="@author.AuthorId">Список книг</a>                
+                        }
+                        <a class="btn btn-info" asp-area="" asp-controller="Author" asp-action="Update" asp-route-id="@author.AuthorId">Редактировать</a>
+                        <a class="btn btn-danger" asp-area="" asp-controller="Author" asp-action="Delete" asp-route-id="@author.AuthorId">Удалить</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</div>

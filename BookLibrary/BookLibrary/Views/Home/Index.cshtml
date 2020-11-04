@@ -1,0 +1,38 @@
+﻿@model HomeViewModel
+
+@{ int availableBooks = Model.BookCount - Model.LendBookCount; }
+
+<h1>Данные библиотеки</h1>
+
+<div class="row">
+    <div class="col-md-6">
+        <div class="panel panel-primary">
+            <div class="panel-heading">
+                Cчетчик посетителей
+            </div>
+            <div class="panel-body">
+                Всего посетителей: @Model.CustomerCount
+            </div>
+        </div>
+    </div>
+    <div class="col-md-6">
+        <div class="panel panel-primary">
+            <div class="panel-heading">
+                Счетчик авторов
+            </div>
+            <div class="panel-body">
+                Всего авторов: @Model.AuthorCount
+            </div>
+        </div>
+    </div>
+    <div class="col-md-6">
+        <div class="panel panel-primary">
+            <div class="panel-heading">
+                Счетчик книг
+            </div>
+            <div class="panel-body">
+                Доступно книг: @availableBooks из @Model.BookCount
+            </div>
+        </div>
+    </div>
+</div>

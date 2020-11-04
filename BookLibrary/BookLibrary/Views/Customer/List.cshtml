@@ -1,0 +1,27 @@
+﻿@model IEnumerable<CustomerViewModel>
+
+<a class="btn btn-success mt-5" style="margin: 10px" asp-controller="Customer" asp-action="Create">Добавить нового посетителя</a>
+
+<table class="table table-striped table-hover ">
+    <thead>
+        <tr>
+            <th>Идентификационный номер</th>
+            <th>Посетитель</th>
+            <th>Взятые книги</th>
+            <th>Редактировать данные о посетителе</th>
+            <th>Удалить данные о посетителе</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var customerVM in Model)
+        {
+            <tr>
+                <td>@customerVM.Customer.CustomerId</td>
+                <td>@customerVM.Customer.Name @customerVM.Customer.LastName</td>
+                <td>@customerVM.BookCount</td>
+                <td><a class="btn btn-info" asp-area="" asp-controller="Customer" asp-action="Update" asp-route-id="@customerVM.Customer.CustomerId">Редактировать</a></td>
+                <td><a class="btn btn-danger" asp-area="" asp-controller="Customer" asp-action="Delete" asp-route-id="@customerVM.Customer.CustomerId">Удалить</a></td>
+            </tr>
+         }
+    </tbody>
+</table>
